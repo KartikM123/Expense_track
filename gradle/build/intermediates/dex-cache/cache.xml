@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\2061a73a47799945e82dc4dfbcc33dd4145fdd76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaa1f595fed4dcd74c9b4547dcd90ef8f89f870c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\80f518070b433a8a8de4bf6d0bc8a97961ee93f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d6bfec966ef4603a1748a6defb9e102db047322\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\6d0fafc6a995ebe79dd9ea15bb1aa9e9f786909c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31bf2a18853d12f74cd9674aa41bc1a72f70a7e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\761e497f80200db7a2db86e1f2d76ac169f3c792\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9398429beea3d7eaa613e2d37369bf2a19017699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\4d71929d6efc3df148e150c30d026d4cfb3d481a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05f8547eed8abb95a0a6682f1f80e5cfd91f3127\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\d6518bd0dfdc3ea45f9d5d81d1765ee514ac26bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6858ca9fb9df76bd5e78adcb1a8a0e9ff0f6d082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\12515abeae9a08ff625e47458091022a4042e199\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e5e0900b74ad50861329a2ea7c9ba8e6596eca5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="97941a4963e90f9ec54767828db6c7d17c49dc98">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c2d337e75b7f4dc0d84434b232fff1d4f04ca262\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\48c1c909c76b988db2d78cb87572c61e4b8e6f81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df0280aab47ca63b78d746751ac5a1d131d81f67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\33de9d0d917d3d8d95fb10534fded8ab2ac90aea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3340b824751bfcc261a2b82c21c3657fbe7a636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9794d60921b272168ca99a2421d124ce24e7dda9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\da6a8e6f99c7bc83735149c4aa63db96e8a60464\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2786a38f876f6c2c8801b72aa481303dd5351e7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\3df44404804ab6c960cbf72da988b90c24c110aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c14a67bd325fe676a256bb847f3ed436c9ddc5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\5d6cbf2b8c4771fb69d85c30fdf451c2ad8a43df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a32a61e67368aadc8af49d75d3f8089232aea038\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_5e685ee410c8decaaddadebd0dce8ed037d82338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\.android\build-cache\77bdd749d8f86743dd62e3944ce8e55444738366\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08e14ec3ee6cfb36b69c1e5cb29c565ccb80d0d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\karti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\karti\AndroidStudioProjects\Expense_tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_00524578fe9387003de13efd7488a41b22511a40\classes.dex" />
+    </item>
+
+</items>
